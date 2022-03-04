@@ -1,6 +1,8 @@
 # 自我介绍
 我叫Keson，来自浙江[杭州](https://baike.baidu.com/item/%E6%9D%AD%E5%B7%9E/147639)。
 
+![西湖风景](xihu.jpeg)
+
 我的爱好有很多，包括：
 1. 电影
 2. 动漫
